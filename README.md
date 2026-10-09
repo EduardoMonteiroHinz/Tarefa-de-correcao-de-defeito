@@ -1,4 +1,4 @@
-# Experimento — Tarefa de Correção de Defeitos (Equipe 3)
+# Experimento — Tarefa de Correção de Defeitos
 
 **Tempo máximo: 25 minutos.** Receba o código Python existente de uma loja virtual e corrija os defeitos de processamento de pedidos. Não implemente interface, banco de dados ou acesso à internet.
 
